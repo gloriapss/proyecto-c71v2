@@ -1,2 +1,2 @@
-# proyecto-c71v2
-Proyecto de la clase 71 versión 2 - Bicicletas
+# PRO-C71-Proyecto
+SOLUCIÓN PROYECTO C71
